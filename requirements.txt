@@ -1,4 +1,4 @@
 yfinance
-pandas
 pandas-ta
 streamlit
+numpy<2.0
